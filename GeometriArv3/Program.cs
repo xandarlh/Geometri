@@ -25,7 +25,6 @@ namespace GeometriArv3
             figures.Add(parallelogram);
             figures.Add(trapez);
             figures.Add(triangle);
-            
 
             //Loops through all items in figures and get the area and circumference of the item.
             foreach (var item in figures)
